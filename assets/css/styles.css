@@ -1,0 +1,18 @@
+body {
+  font-family: 'Tenor Sans', sans-serif;
+  --bs-primary: #7b113a;
+  --bs-primary-rgb: 123,17,58;
+  --bs-body-bg: var(--bs-body-color);
+  --bs-info: #9c3d54;
+  --bs-info-rgb: 156,61,84;
+  --bs-dark: #0f0f10;
+  --bs-dark-rgb: 15,15,16;
+  --bs-body-color: #ffffff;
+  --bs-body-font-weight: 300;
+  background: var(--bs-dark);
+}
+
+.banner-content {
+  height: 728px;
+}
+
